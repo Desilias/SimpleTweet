@@ -33,7 +33,7 @@ Les fonctionnalités ** optionnelles ** suivantes sont implémentées:
 
 Voici une présentation des user stories implémentées:
 
-<img src = 'https://imgur.com/a/Nxe1AXm.gif' title = 'Vidéo Procédure pas à pas' width = '' alt = 'Vidéo Procédure pas à pas' />
+<img src = 'blob:https://imgur.com/b1772015-979e-416d-af16-f8bb0151732d' title = 'Vidéo Procédure pas à pas' width = '' alt = 'Vidéo Procédure pas à pas' />
 
 GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
 
