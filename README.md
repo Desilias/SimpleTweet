@@ -35,7 +35,7 @@ Voici une présentation des user stories implémentées:
 
 <img src = 'https://imgur.com/a/Nxe1AXm' title = 'Vidéo Procédure pas à pas' width = '' alt = 'Vidéo Procédure pas à pas' />
 
-GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
+GIF créé avec [LiceCap] (https://imgur.com/a/Nxe1AXm).
 
 ## Remarques
 
