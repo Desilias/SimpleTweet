@@ -1,13 +1,13 @@
 # 
-# Projet 3 - * SimpleTweet *
+# Projet 3 -  SimpleTweet 
 
-** SimpleTweet ** est une application Android qui permet à un utilisateur de consulter son calendrier Twitter et poster un nouveau tweet. L'application utilise [Twitter REST API] (https://developer.twitter.com/fr/docs/api-reference-index).
+ SimpleTweet  est une application Android qui permet à un utilisateur de consulter son calendrier Twitter et poster un nouveau tweet. L'application utilise [Twitter REST API] (https://developer.twitter.com/fr/docs/api-reference-index).
 
-Temps passé: ** 72** heures passées au total
+Temps passé:  72 heures passées au total
 
 ## Histoires d'utilisateurs
 
-La fonctionnalité ** requise ** suivante est terminée:
+La fonctionnalité requise suivante est terminée:
 
 * [] L'utilisateur peut ** se connecter à Twitter ** en utilisant le login OAuth
 * [] L'utilisateur peut ** afficher les tweets à partir de la chronologie de sa maison **
@@ -33,7 +33,7 @@ Les fonctionnalités ** optionnelles ** suivantes sont implémentées:
 
 Voici une présentation des user stories implémentées:
 
-<img src = 'blob:https://imgur.com/b1772015-979e-416d-af16-f8bb0151732d' title = 'Vidéo Procédure pas à pas' width = '' alt = 'Vidéo Procédure pas à pas' />
+<img src = 'https://imgur.com/b1772015-979e-416d-af16-f8bb0151732d' title = 'Vidéo Procédure pas à pas' width = '' alt = 'Vidéo Procédure pas à pas' />
 
 GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
 
